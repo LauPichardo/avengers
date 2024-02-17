@@ -5,3 +5,4 @@
 *Thor
 *Iron man
 * Joker
+* Loki
