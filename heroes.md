@@ -4,3 +4,5 @@
 *Superman
 *Thor
 *Iron man
+* Joker
+* Loki
